@@ -12,4 +12,8 @@ func main()  {
 	y := 20 + 16
 	fmt.Println(y)
 	
+	z := 199 * 45
+	fmt.Println(z)
+
+	
 }
